@@ -4,6 +4,7 @@ int main() {
   std::cout <<"Htllo World"<<std::endl;
   std::cout << "A new commit of the change so mine.\n";
   std::cout <<"A new 'Commit 2' of the change so mine.\n";
+  std::cout <<"Created a new development branch — git branch dev.";
   
   std::cout << "Ночь, улица, фонарь, аптека,\n";
     return 0;
