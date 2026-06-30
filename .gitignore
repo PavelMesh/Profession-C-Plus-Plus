@@ -1,1 +1,11 @@
 build/
+build/
+*.o
+*.out
+*.exe
+output/ # добавим папку output
+build/
+*.o
+*.out
+*.exe
+output/

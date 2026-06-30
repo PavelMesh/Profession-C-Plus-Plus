@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++: clang++ build and debug active file",
+      "type": "lldb",
+      "request": "launch",
+      "program": "/build/Debug/outDebug",
+      "args": [],
+      "cwd": "",
+      "stopAtEntry": false
+    }
+  ]
+}
